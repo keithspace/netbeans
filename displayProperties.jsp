@@ -101,13 +101,14 @@
                             <select name="" id="">
                                 <option value="">ID</option>
                             </select>
-                            <a href="AddProperty.html">
+                            <a href="AddProperty.html" class="add-property-button">
                             <button>Add Property</button>
                             </a>
-                             <a href="RemoveProperty.html">
+                             <a href="RemoveProperty.html" class="remove-property-button" >
                             <button>Remove Property</button>
                             </a>
                         </div>
+                   </div>
                     <div>
                         <table width="100%">
                             <thead>
