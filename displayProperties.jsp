@@ -95,7 +95,19 @@
             <div class="page-content">
             
                 <div class="records table-responsive">
-
+                     <div class="record-header">
+                        <div class="add">
+                            <span>Entries</span>
+                            <select name="" id="">
+                                <option value="">ID</option>
+                            </select>
+                            <a href="AddProperty.html">
+                            <button>Add Property</button>
+                            </a>
+                             <a href="RemoveProperty.html">
+                            <button>Remove Property</button>
+                            </a>
+                        </div>
                     <div>
                         <table width="100%">
                             <thead>
